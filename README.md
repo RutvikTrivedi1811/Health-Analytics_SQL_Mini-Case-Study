@@ -23,3 +23,8 @@
 8. Have all 3 measures - blood glucose, weight and blood pressure?
 ##### For users that have blood pressure measurements:
 7. What is the median systolic/diastolic blood pressure values?
+
+
+##### Reference link to the actual case study - [datawithdanny](https://www.datawithdanny.com/)
+
+
